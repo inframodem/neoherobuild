@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "expand hero",
+"dataUrl": "new hero build.data.unityweb",
+"wasmCodeUrl": "new hero build.wasm.code.unityweb",
+"wasmFrameworkUrl": "new hero build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
